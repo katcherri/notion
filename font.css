@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Lexend:wght@400;700&display=swap");
-@import image(Screenshot 2024-01-14 151816.png);
 
 * {
   box-sizing: border-box;
@@ -59,7 +58,8 @@ body {
 }
 
 .slide:first-child {
-  background: image("Screenshot 2024-01-14 151816.png#xywh=160,120,1600,900") no-repeat
+  background: url("https://github.com/katcherri/notion/assets/155927403/160efc0b-1471-43a2-be43-4dd7ed520576
+/1600x900") no-repeat
     center top/cover;
 }
 
